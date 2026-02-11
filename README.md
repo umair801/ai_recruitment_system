@@ -364,9 +364,9 @@ MIT License - see LICENSE file
 ## Support
 
 For issues or questions:
-- GitHub Issues: [repository-url]/issues
-- Email: support@company.com
-- Documentation: [docs-url]
+- GitHub Issues: https://github.com/umair801/ai_recruitment_system/issues
+- Email: umair@datawebify.com
+- Documentation: See README.md and project files
 
 ## Contributing
 
